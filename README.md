@@ -16,8 +16,7 @@ Este repo pretende ser una guia sencilla para aprender a escribir código **limp
 * Condicionales y manejo de errores -> Falta de control de excepciones, condiciones largas
 * POO -> Distinción y definición de clases, estructuras de datos.
 
-## Soluciones
+## Soluciones (Código mantenible y extensible)
 * Reglas, estandares y conceptos claros.
 * Patrones y principios de diseño.
 * Test-Driven Development
-
